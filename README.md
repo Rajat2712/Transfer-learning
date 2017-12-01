@@ -51,3 +51,4 @@ More robust model.
 ![iyg5vdsptusn4bydauzthq](https://user-images.githubusercontent.com/23000971/33496861-cfc5e38e-d6f1-11e7-9bb4-305d2832e7ee.png)
 
 ## Output
+![bottleneck_last_layer_viz](https://user-images.githubusercontent.com/23000971/33496946-24a97cc6-d6f2-11e7-9280-8bbf4a56b8b7.png)
